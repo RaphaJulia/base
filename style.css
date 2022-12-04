@@ -6,5 +6,5 @@ h1 {
     position: absolute;
     top: 20px; /*va être à 20 pixels du haut*/
     left: 50%; /*va être à décalé de 50% par rapport à ton côté droit*/
-    color: la_couleur_que_tu_veux;
+    color: white; /*tu met la couleur que tu veux sauf du noir ou du trop foncé*/
 } 
