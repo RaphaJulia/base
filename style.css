@@ -8,3 +8,14 @@ h1 {
     top: 20px; /*va être à 20 pixels du haut*/
     color: white; /*tu met la couleur que tu veux sauf du noir ou du trop foncé*/
 } 
+
+#exemple { /*modifie que les élément avec l'id="exemple"*/
+    border: solid white; /*ici tu défini une bordure à ton texte dans ce cas la elle est blanche tu peux mettre d'autre
+    attribut que "solid"*/
+    background: red; /*la tu défini la couleur de fond, celle qui se trouvera dans ta bordure*/
+    color: black; /*couleur de ton texte*/
+    margin: 46px 42%; /*écart par rapport aux cotés   vertical | horizontal*/
+    font-size: 24px; /*taille de ton texte*/
+    text-align: center; 
+    padding: 5px 10px 25px 10px; /*distance par rapport a ta bordure    haut | droite | bas | gauche*/
+}
